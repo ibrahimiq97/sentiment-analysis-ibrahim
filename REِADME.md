@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahimiq97/sentiment-analysis-ibrahim/blob/main/arabic_sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahimiq97/sentiment-analysis-ibrahim/blob/main/arabic_sentiment_analysis(1).ipynb)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write("""\
