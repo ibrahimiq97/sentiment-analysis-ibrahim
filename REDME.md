@@ -39,6 +39,7 @@ with open("README.md", "w", encoding="utf-8") as f:
 - المشروع تم تنفيذه بالكامل على Google Colab للاستفادة من موارد الحوسبة السحابية.
 - لم يتم استخدام جهاز محلي لأن المواصفات محدودة.
 - المشروع قابل للتطوير لاحقاً باستخدام بيانات حقيقية من منصات اجتماعية.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahimqreet/sentiment-analysis/blob/main/sentiment_analysis_project.ipynb)
 
 📫 **للتواصل / الدعم:**
 يمكن مراسلتي عبر GitHub لأي استفسار أو اقتراح.
